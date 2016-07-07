@@ -6,8 +6,7 @@ download or clone the repository
 
 inside the repository run:
 
-npm install
-npm install -g webpack
-
-npm run dev
+- npm install
+- npm install -g webpack
+- npm run dev
 ```
